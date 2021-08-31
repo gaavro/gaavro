@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com front-end
 - 🌱 Estou aprendendo TypeScript
-- 😄 Pronome: ela/dela
+
 <div>
   <a href="https://github.com/gaavro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaavro&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
