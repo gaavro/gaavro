@@ -1,7 +1,7 @@
 ## Olá, sou a Gabriela Rodrigues!
 
-- 🔭 Trabalho com front-end
-- 🌱 Estou aprendendo TypeScript
+- 🔭 Trabalho com back-end
+- 🌱 Formada em Engenharia de Software
 
 <div>
   <a href="https://github.com/ayanamello">
